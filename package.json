@@ -13,7 +13,8 @@
     "nodemon": "latest"
   },
   "dependencies": {
-    "express": "latest",
-    "cors": "latest"
+    "cors": "latest",
+    "dotenv": "^16.0.3",
+    "express": "latest"
   }
 }
