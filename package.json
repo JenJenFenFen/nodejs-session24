@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-session24",
+  "version": "1.0.0",
+  "description": "MY task from Kak Faizul harisenin.com",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "build": "node src/index.js"
+  },
+  "author": "Jenny",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest"
+  }
+}
